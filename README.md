@@ -37,9 +37,11 @@ http://getbootstrap.com/
 
 # How To Install
 
+```javascript
 git clone https://github.com/mohikan/SlimTr.git targetdir
 cd targetdir
 composer install
+```
 
 # Feautures
 
