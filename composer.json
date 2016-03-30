@@ -1,6 +1,6 @@
 {
   "name": "mohikan/SlimTr",
-  "description": "MoneyCard24 online management application",
+  "description": "All Slim Girls here",
   "require": {
         "slim/slim": "*",
         "slim/extras": "*",

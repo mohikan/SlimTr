@@ -1,0 +1,8 @@
+# starting with points
+.*
+
+# except gitignore
+!.gitignore
+
+# ignore vendors
+/vendor
