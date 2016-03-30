@@ -1,0 +1,15 @@
+{
+  "name": "mohikan/SlimTr",
+  "description": "MoneyCard24 online management application",
+  "require": {
+        "slim/slim": "*",
+        "slim/extras": "*",
+        "twig/twig": "*"
+  },
+    "autoload": {
+        "psr-0": {
+            "SlimTr": "vendor/",
+            "Controller": "./"
+        }
+    }
+}
