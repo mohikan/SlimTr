@@ -23,7 +23,7 @@ $app->get('/', function() use($app) {
 });
 */
 
-// singe language
+// single language
 $app->map('/(:controller)(/:view)(/:slug)', function($controller = "home", $view = "index", $slug = "") use($app) {
 
 	echo "single lang tester : <br>";
